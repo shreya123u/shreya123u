@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shreya Pandey! <br/><a href="https://github.com/shreya123u"><h2><p>🚀 Software Engineer | Cloud Enthusiast</a>, <a href="https://www.linkedin.com/in/shreya-pandey-358935253/"></a> </h2></p> <p>I am Shreya Pandey, a pre-final year BTech Computer Science and Engineering (CSE) student specializing in Cloud Computing and Virtualization Technology (CCVT) at UPES , Dehradun. I am passionate about leveraging technology to solve real-world challenges and continuously enhancing my skills in cloud computing, data structures, and software development.</p></h3>
+<h1>Hi, I'm Shreya Pandey! <br/><a href="https://github.com/shreya123u"><h2><p>🚀 Software Engineer | Cloud Enthusiast</a>, <a href="https://www.linkedin.com/in/shreya-pandey-358935253/"></a> </h2></p> <p>I am Shreya Pandey, a final year BTech Computer Science and Engineering (CSE) student specializing in Cloud Computing and Virtualization Technology (CCVT) at UPES , Dehradun. I am passionate about leveraging technology to solve real-world challenges and continuously enhancing my skills in cloud computing, data structures, and software development.</p></h3>
 
 <h2>👨‍💻 ABOUT ME: </h2>
 
